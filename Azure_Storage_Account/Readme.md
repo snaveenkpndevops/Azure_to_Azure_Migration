@@ -1,27 +1,12 @@
-# Azure Migration
+# Azure Storage Account Migration:
 
-This repository contains information and documentation related to Azure-to-Azure migration. Each service has its own dedicated folder, and inside each folder, you will find a `README.md` file detailing the migration steps for that specific service.
+This folder contains information about `Azure Storage Account Migration`. Each resource has its own dedicated folder. Inside each resource folder, you will find a README.md file with detailed information specific to that resource.
 
 ## Folder Structure
 
 For example:
 
 If we are migrating an **Azure Storage Account**, there will be a folder named `Azure Storage Account`. Inside this folder, there will be separate subfolders for each resource type, such as `Blob`, `File Share`, `Tables`, and `Queue`. Each resource folder will contain its own `README.md` file with detailed information.
-
-## Azure Services
-
-The following Azure services are covered in this repository:
-
-1. **Storage Account**
-   - Blob
-   - File Share
-   - Tables
-   - Queues
-2. **Azure SQL**
-3. **Cosmos DB**
-4. **Azure Kubernetes Service (AKS)**
-5. **Azure Virtual Machines (VM) + Disks + Snapshots + Images**
-6. **Azure Users, Managed Identities, User Identities, and Other Configurations**
 
 ## Planning Before Migration
 
