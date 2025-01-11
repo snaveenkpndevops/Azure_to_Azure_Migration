@@ -2,6 +2,19 @@
 
 This folder contains information about `Azure Storage Account Migration`. Each resource has its own dedicated folder. Inside each resource folder, you will find a README.md file with detailed information specific to that resource.
 
+
+## Reference
+
+### Blog Author:
+Vikas Kumawat
+
+### Blog Link:
+[How to Migrate Data from Azure Storage Account to Google Cloud Storage Buckets](https://medium.com/google-cloud/how-to-migrate-data-from-azure-storage-account-to-google-cloud-storage-buckets-423905653e31)
+
+### Notes:
+The above blog was referred to as a guide for creating this `README.md` file for Azure Storage Account migration.
+
+
 ## Folder Structure
 
 For example:
