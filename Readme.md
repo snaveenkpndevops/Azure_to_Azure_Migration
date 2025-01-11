@@ -1,10 +1,10 @@
 # Azure Migration:
 
-This Repository Contains Information and documents related Azure Migration. There is a separate folder for each Services. Inside each services there will readme.md for each services.
+This Repository Contains Information and documents related Azure to Azure Migration. There is a separate folder for each Services. Inside each services there will `readme.md` for each services.
 
 For Example: 
 
-If we are migrating azure storage account then there will be a folder for azure storage account. Then inside the azure storage account we have separate folder for each resource like separate folder for blob, file share, tables, queue etc. Each resource has its own readme.md file. 
+If we are migrating `azure storage account` then there will be a folder for `azure storage account`. Then inside the azure storage account we have separate folder for each resource like separate folder for `blob, file share, tables, queue` etc. Each resource has its own `readme.md` file. 
 
 
 ## Azure Services:
