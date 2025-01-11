@@ -48,3 +48,8 @@ Before initiating the migration, ensure the following steps are completed:
 
 8. **High Availability and Disaster Recovery**
    - Develop strategies to ensure high availability and disaster recovery for all services.
+
+
+## Notes:
+
+While creating the Storage account few options needs to be noted:
